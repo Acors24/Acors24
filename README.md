@@ -2,6 +2,7 @@ University projects:
 - [math-expression-printer](https://github.com/Acors24/math-expression-printer) for _Introduction to Programming in C_ (2021)
 - [breakout-clone-in-js](https://github.com/Acors24/breakout-clone-in-js) for _Object-Oriented-Programming_ (2022)
 - [uwr-db-project](https://github.com/Acors24/uwr-db-project) for _Databases_ (2023)
+- [weppo-shop](https://github.com/jkcherrybomb/weppo-shop) for _Selected Elements of Software Design Practice_ (2023)
 - [one-of-the-repos-ever](https://github.com/Acors24/one-of-the-repos-ever) for _Corporate Java_ (2024)
 
 <!--
