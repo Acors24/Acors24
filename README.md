@@ -3,6 +3,7 @@ University projects:
 - [js-breakout-clone](https://github.com/Acors24/js-breakout-clone) for _Object-Oriented Programming_ (2022)
 - [uwr-db-project](https://github.com/Acors24/uwr-db-project) for _Databases_ (2023)
 - [rust-fractal-generator](https://github.com/Acors24/rust-fractal-generator) for _Rust Course_ (2023)
+- [cpp-hgt-viewer](https://github.com/Acors24/cpp-hgt-viewer) for _Basics of Computer Graphics_ (2023)
 - [weppo-shop](https://github.com/jkcherrybomb/weppo-shop) for _Selected Elements of Software Design Practice_ (2023)
 - [one-of-the-repos-ever](https://github.com/Acors24/one-of-the-repos-ever) for _Corporate Java_ (2024)
 
