@@ -7,6 +7,9 @@ University projects:
 - [weppo-shop](https://github.com/jkcherrybomb/weppo-shop) for _Selected Elements of Software Design Practice_ (2023)
 - [one-of-the-repos-ever](https://github.com/Acors24/one-of-the-repos-ever) for _Corporate Java_ (2024)
 
+Personal projects:
+- [aoc-react-chart](https://github.com/Acors24/aoc-react-chart) - a React app for Advent of Code leaderboard files (2024)
+
 <!--
 **Acors24/Acors24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
