@@ -9,6 +9,7 @@ University projects:
 
 Personal projects:
 - [aoc-react-chart](https://github.com/Acors24/aoc-react-chart) - a React app for Advent of Code leaderboard files (2024)
+- [hoyo-mixle](https://acors24.github.io/hoyo-mixle/) - a web-based game inspired by Wordle (2024)
 
 <!--
 **Acors24/Acors24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
